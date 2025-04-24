@@ -22,7 +22,7 @@
 
 #### "Create, Edit, and Run Web Code Seamlessly – All in One Place"
 
-# [Live Demo]("https://student-milanmandal.github.io/CODE-EDITOR/")
+# [Live Demo](https://student-milanmandal.github.io/CODE-EDITOR/)
 
 ## 👆👆 Check it out here
 
